@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+quelle vie sinon cette vie!
 Use the left arrow to go back!
